@@ -1,14 +1,14 @@
-# PKsim Shiny
+# PKsim-Shiny
 
 ## Overview
 
-PKsim Shiny is an educational pharmacokinetic simulation application
+PKsim-Shiny is an educational pharmacokinetic simulation application
 based on a linear one-compartment model.
 
 
 ## Intended use
 
-PKsim Shiny is intended for educational, research, demonstration,
+PKsim-Shiny is intended for educational, research, demonstration,
 and other non-clinical purposes.
 It is not intended for clinical decision-making or patient care.
 
